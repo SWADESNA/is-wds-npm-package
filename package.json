@@ -19,4 +19,8 @@
     "url": "https://github.com/WebDevSimplified/is-wds-npm-package/issues"
   },
   "homepage": "https://github.com/WebDevSimplified/is-wds-npm-package#readme"
+
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
 }
